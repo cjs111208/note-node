@@ -26,11 +26,11 @@ v8引擎: V8引擎是一个JavaScript引擎实现，最初由一些语言方面�
 
 lts版（开发必用），稳定
 
-![下载node](.\image\2267589-bb1555667d5355af.png)
+![下载node](https://github.com/cjs111208/note-node/blob/master/image/2267589-bb1555667d5355af.png)
 
 ### 查看下载版本
 
-![1576567873118](C:\Users\ADMINI~1\AppData\Local\Temp\1576567873118.png)
+![1576567873118](https://github.com/cjs111208/note-node/blob/master/image/2267589-2c9ced41baca7c1e.png)
 
 使用  npm ls -g --depth 0  可以查看所有全局插件
 
@@ -48,5 +48,5 @@ npm config set prefix "文件路径\node_global"
 
 npm config set cache "文件路径\node_cache"
 
-![配置](.\image\1576568350717.png)
+![配置](https://github.com/cjs111208/note-node/blob/master/image/1576568350717.png)
 
