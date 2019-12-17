@@ -1,4 +1,4 @@
-[Nodejs](https://github.com/cjs111208/note-node#%E4%BB%8B%E7%BB%8D)
+[Nodejs](https://github.com/cjs111208/note-node#nodejs)
 
  [介绍](https://github.com/cjs111208/note-node#%E7%89%88%E6%9C%AC)
 
