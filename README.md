@@ -1,4 +1,12 @@
-##[介绍](https://github.com/cjs111208/note-node#%E4%BB%8B%E7%BB%8D )
+[Nodejs](https://github.com/cjs111208/note-node#%E4%BB%8B%E7%BB%8D)
+
+ [介绍](https://github.com/cjs111208/note-node#%E7%89%88%E6%9C%AC)
+
+ [版本](https://github.com/cjs111208/note-node#%E6%9F%A5%E7%9C%8B%E4%B8%8B%E8%BD%BD%E7%89%88%E6%9C%AC)
+
+  [查看下载版本](https://github.com/cjs111208/note-node#%E6%9F%A5%E7%9C%8B%E4%B8%8B%E8%BD%BD%E7%89%88%E6%9C%AC)
+
+ [配置node的环境变量](https://github.com/cjs111208/note-node#%E9%85%8D%E7%BD%AEnode%E7%9A%84%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F)
 
 
 
