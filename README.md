@@ -2,7 +2,7 @@
 
  [介绍](https://github.com/cjs111208/note-node#%E4%BB%8B%E7%BB%8D)
 
- [版本](https://github.com/cjs111208/note-node#%E6%9F%A5%E7%9C%8B%E4%B8%8B%E8%BD%BD%E7%89%88%E6%9C%AC)
+ [版本](https://github.com/cjs111208/note-node#%E7%89%88%E6%9C%AC)
 
   [查看下载版本](https://github.com/cjs111208/note-node#%E6%9F%A5%E7%9C%8B%E4%B8%8B%E8%BD%BD%E7%89%88%E6%9C%AC)
 
